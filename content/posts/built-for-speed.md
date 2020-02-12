@@ -1,9 +1,9 @@
 ---
-title: Built For Speed
+title: اولین پست
 subtitle: Awake is Built to Be Blazing Fast
 category:
   - About Awake
-author: Daniel Kelly
+author: مجتبی بنائی
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
 ---
